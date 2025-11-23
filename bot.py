@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # bot.py
 # Requirements:
 # pip install discord.py requests beautifulsoup4 python-dotenv
@@ -204,7 +204,7 @@ if __name__ == "__main__":
         print("Please set DISCORD_TOKEN in .env")
     else:
         bot.run(TOKEN)
-=======
+
 # bot.py
 # Requirements:
 # pip install discord.py requests beautifulsoup4 python-dotenv
@@ -410,4 +410,4 @@ if __name__ == "__main__":
         print("Please set DISCORD_TOKEN in .env")
     else:
         bot.run(TOKEN)
->>>>>>> b3f373d72cd8a6b0f4ba2d85242eaead2dcd0be5
+
