@@ -15,7 +15,7 @@ A Discord bot that automatically posts free Udemy courses from DiscUdemy.
 
 ## Setup
 1.Install dependencies:
-   pip install -r requirements.txt
+ - pip install -r requirements.txt
 
 2.Create .env:
  - DISCORD_TOKEN=your_bot_token
@@ -24,5 +24,5 @@ A Discord bot that automatically posts free Udemy courses from DiscUdemy.
  - PAGES_TO_SCRAPE=1
 
 3.Run locally:
-python bot.py
+ - python bot.py
 
